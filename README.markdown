@@ -18,7 +18,7 @@ I also think it is a way to connect with fans. I may write something that I have
 What is the license?
 --------------------
 
-I'm releasing this library underneath [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/). This means I'm explicitly allowing a lot of the things that fans create around a creator's work of art<sub>†</sub>. Fan art? No problem. Fan-fiction? Yeah, I don't have a problem. Essays about my characterization of women and sentient dolls? Go for it. The biggest thing is that you can't make money off it (no writing the Fedran encyclopedia without me) and you need to reference where you got the ideas.
+I'm releasing this library underneath [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/). This means I'm explicitly allowing a lot of the things that fans create around a creator's work of art<sup>†</sup>. Fan art? No problem. Fan-fiction? Yeah, I don't have a problem. Essays about my characterization of women and sentient dolls? Go for it. The biggest thing is that you can't make money off it (no writing the Fedran encyclopedia without me) and you need to reference where you got the ideas.
 
 My [preferred](https://wiki.creativecommons.org/Best_practices_for_attribution) way of identifying the Fedran for Creative Commons' attribution:
 

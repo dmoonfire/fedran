@@ -11,6 +11,7 @@ The world of [Fedran](/) is a rich one with a wide variety of fantastic location
 * [Resonance]()
 * [Quotes]()
 * [People]()
+* [Astronomy]()
 
 # Countries
 

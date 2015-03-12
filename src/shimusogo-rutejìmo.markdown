@@ -5,7 +5,7 @@ categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-  - Sand and Blood Characters
+  - {category: Sand and Blood Characters, entry: Rutejìmo}
 LocalWords: Shimusogo Rutejìmo Jìmo Hikòru Tejíko Somiryòki Desòchu tejíko Shimusògo Chyojímo shimusogo chyojímo hikòru desòchu Rutejìmo's banyosiōu Fedran somiryòki Pidòhu Chimípu Tsubàyo Karawàbi Chimípu's Byodenóre's byodenóre kyo Tsubàyo's Pabinkue Mikáryo
 ---
 

@@ -6,11 +6,7 @@ categories:
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Rutejìmo Jìmo
-scopeWarning: primary
-scopeReferences:
-  - title: Sand and Blood
-    url: /sand-and-blood/
+LocalWords: Shimusogo Rutejìmo Jìmo Hikòru Tejíko Somiryòki Desòchu tejíko Shimusògo Chyojímo shimusogo chyojímo hikòru desòchu Rutejìmo's banyosiōu Fedran somiryòki Pidòhu Chimípu Tsubàyo Karawàbi Chimípu's Byodenóre's byodenóre kyo Tsubàyo's Pabinkue Mikáryo
 ---
 
 Rutejìmo (Jìmo for short) is a courier of the [Shimusògo]() clan. While growing up, he was unremarkable but he quickly became one of their greatest legends.
@@ -19,24 +15,51 @@ Rutejìmo (Jìmo for short) is a courier of the [Shimusògo]() clan. While growi
 
 Rutejìmo was the youngest living son of [Chyojímo](/shimusogo-chyojímo/) and [Hikòru](/shimusogo-hikòru/). Born after three miscarriages, he was younger than his eldest brother, [Desòchu](/shimusogo-desòchu/), by fourteen years.
 
-A week after he was born, his mother fell when she tripped on a path inside [Shimusogo Valley](). Already weak from Rutejìmo's birth, she died from her injuries. Desòchu partially blamed Rutejìmo for her death, but suppressed it after pressure from the clan elders to move beyond it.
+A week after he was born, his mother fell when she tripped on a path inside [Shimusogo Valley](). Already weak from Rutejìmo's birth, she died from blood loss and her injuries.
 
-As normal for the isolated clan, the elders raised all children and left the clan's duties to the capable adults including his father. He moved in with his grandparents, [Tejíko](/shimusogo-tejíko/) and [Somiryòki](/shimusogo-somiryòki/).
+# Raging Alone
 
-Growing up, Rutejìmo struggled in the shadow of Desòchu who was rapidly becoming one of the favorite youths of the clan. Desòchu was faster and stronger, not to mention more personable than Rutejìmo. From Rutejìmo's point of view, Desòchu was the perfect warrior. In response, Rutejìmo became somewhat of a troublemaker, always trying to exceed his brother's deeds but failing because he didn't have the skills or drive.
+Four years later, Hikòru and Desòchu still blamed Rutejìmo for his mother's death. Hikòru drank heavily and became a disruption on the clan while Desòchu mimicked his father's actions and abused Rutejìmo in private.
 
-Desòchu moved out of their grandparent's cave when Rutejìmo was five. Many of the elders thought that Rutejìmo's troubles would lessen, but they only increased as Desòchu became one of the clan's greatest warriors and his deeds became stories told over the fires.
+{{spoiler: Raging Alone}}
 
-There were four other children about the same age as Rutejìmo as he grew up:
+When it became obvious that his father was a danger to Rutejìmo, the clan kicked Hikòru out of the clan and declared him a [banyosiōu]()). Desòchu was left to care for his brother, but it was only days later when Desòchu almost shoved Rutejìmo off a cliff. Realizing that Desòchu was also unable to see past his rage, the clan forced Rutejìmo's older brother into his rite of passage. These events are told in [Raging Alone](), a serial that appeared in various issues of the [Journals of Fedran]().
 
-* [Chimípu](/shimusogo-chimípu/): A girl about a year older than him that was destined to become one of the clan's greatest warriors.
-* [Pidòhu](/tateshyuso-pidòhu/): A frail boy that was unlike all of the other teenagers. Pidòhu was more intellectual, a trait that Rutejìmo didn't respect, and he struggled more than Rutejìmo with the physical tests and feats.
-* [Tsubàyo](/pabinkue-tsubàyo/): A bully that frequently butted heads with Rutejìmo. One-on-one, both boys were roughly equal but Tsubàyo frequently hung around with...
-* [Karawàbi](/shimusogo-karawàbi/): A much larger and more physical boy only a few months older than Rutejìmo. Karawàbi was an able fighter, capable of beating Rutejìmo into the ground but frequently got in trouble with Rutejìmo for fighting.
+# Growing Up
 
-# [Sand and Blood]()
+After the events in *Raging Alone*, Desòchu moved out of the family cave and Rutejìmo moved into his grandparent's cave. Living with [Tejíko](/shimusogo-tejíko/) and [Somiryòki](/shimusogo-somiryòki/) was a different experience for Rutejìmo. He was no longer subject to the abuse from his father and brother, but Tejíko was strict and had a short temper. She beat Rutejìmo, but it was for not obeying her rules. The rest of the clan watched her carefully, to see if the abuse remained with the family, but Tejíko was well-known for her punishments and she doled them without bias to anyone who transgressed the rules.
 
-By the time the events of [Sand and Blood](/sand-and-blood/) started, the entire clan viewed Rutejìmo as lazy and incompetent. He was a brawler, but didn't have a long history of winning his fights. He could barely keep up with the other teenagers and didn't have any strength, fighting skill, or talent of note.
+Rutejìmo did not flourish with Tejíko. Over the next thirteen years, he struggled to keep up with the frequent contests and requests the elders inflicted on the clan's youth. It quickly became apparent that he was slower and weaker than anyone besides [Pidòhu](). The other children his age were all more capable, but not even them could keep up with the pride of the clan, [Chimípu]().
+
+Frequently, Rutejìmo came to blows with [Tsubàyo]() and [Karawàbi](), but rarely won the resulting brawls since the two teenagers remained near each other and easily defeated Rutejìmo. Unable to prove himself to anyone, he found himself drifting without any aspirations to reach his brother's powers or Chimípu's obvious skill.
+
+# Sand and Blood
+
+At the beginning of [Sand and Blood](/sand-and-blood/), Rutejìmo was seventeen years old. He had not gone through his rites of passage because the clan elders felt that he did not have the emotional maturity to become an adult.
+
+## Description
+
+Being that *Sand and Blood* is written from Rutejìmo's point of view, there are relatively few descriptions.
+
+> [...] Like all desert folk, she had dark skin and green eyes. But where she was as dark as obsidian rock, Rutejìmo was the softer brown of sun-bright soil. She wore [...].
+>
+> In contrast, Rutejìmo wore a pair of white cotton trousers and remained bare-chested. A few sparse black hairs dusted his pectorals. The only representative traits of the Shimusògo were hard, muscular legs and lean bodies adapted to running across the desert for hours.
+
+## Personality
+
+{{spoiler: Sand and Blood}}
+
+Rutejìmo had dreams of keeping up with Chimípu even though he knew he wasn't capable of doing so. He chafed underneath her obvious skill, wishing he would push himself harder but knowing that he wouldn't.
+
+Later, during the rite and when Chimípu ran off to try to find the elders, Rutejìmo was willing to let Tsubàyo and Karawàbi take charge. Even when Karawàbi was trying to knock Pidòhu off a rock, Rutejìmo felt guilt for not doing anything when the teenager fell and broke his legs. The same attitude remained with him when he let Tsubàyo bully him into abandoning Chimípu and Pidòhu and going off on their own.
+
+It wasn't until Rutejìmo started to feel the power of Shimusògo and the abusive way that Tsubàyo treated him that he was willing to stand on his own. When Tsubàyo tried to steal horses, Rutejìmo finally stood up for himself and refused. That led to a fight with Tsubàyo and, later, Karawàbi, before Rutejìmo ran back to rejoin Chimípu and Pidòhu.
+
+He realized his mistake and offered his throat to Chimípu who refused to take his life. She reluctantly allowed him to retain but didn't lash out.
+
+Through the adventures that followed, Rutejìmo found that he had no taste for violence and was quickly becoming a pacifist. He made some attempts to fight Tsubàyo over Pidòhu, but he couldn't bring himself to attack the teenager. When he saw violence, he became sick to his stomach and would later beg to save Tsubàyo's life.
+
+During this time, Rutejìmo also acquired a fear of the dark much to the realization that he was too weak to survive on his own. A night clan warrior, [Pabinkue Mikáryo](), enforced this when she saved him from a giant snake. It was during this time that he started to have feelings for the warrior that would later haunt him.
 
 # Relationships
 

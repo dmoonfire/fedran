@@ -5,7 +5,9 @@ categories:
   - Kakasāba Clan Member
   - Quote
   - Quoted Saying
-title: Kakasaba Mioshigàma
+title: Mioshigàma
+aliases:
+  - Kakasaba Mioshigàma
 ---
 
 For his entire life, Kakasaba Mioshigàma was viewed as a simple farmer. Despite being a member of a night clan, he said little and did nothing to place him in legend.

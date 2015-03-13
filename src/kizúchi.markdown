@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Kizúchi
-Title: Shimusogo Kizúchi
+Title: Kizúchi
+aliases:
+  - Shimusogo Kizúchi
 categories:
   - Person
   - Shimusògo Clan Member

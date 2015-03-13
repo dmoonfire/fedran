@@ -1,5 +1,7 @@
 ---
-Title: Kalem Ratenbur
+Title: Kalem
+aliases:
+  - Kalem Ratenbur
 categories:
   - Person
   - Author

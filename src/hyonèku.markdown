@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Hyonèku
-Title: Shimusogo Hyonèku
+Title: Hyonèku
+aliases:
+  - Shimusogo Hyonèku
 categories:
   - Person
   - Shimusògo Clan Member

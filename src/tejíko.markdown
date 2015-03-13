@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Tejíko Shimusògo Hikòru shimusogo hikòru kyo
-Title: Shimusogo Tejíko
+Title: Tejíko
+aliases:
+  - Shimusogo Tejíko
 categories:
   - Person
   - Shimusògo Clan Member

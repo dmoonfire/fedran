@@ -1,6 +1,8 @@
 ---
 LocalWords: Tateshyuso Pidòhu Tateshyúso
-Title: Tateshyuso Jyotekábi
+Title: Jyotekábi
+aliases:
+  - Tateshyuso Jyotekábi
 categories:
   - Person
   - Tateshyúso Clan Member

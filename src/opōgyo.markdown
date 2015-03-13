@@ -1,6 +1,8 @@
 ---
 LocalWords: Opōgyo
-Title: Shimusogo Opōgyo
+Title: Opōgyo
+aliases:
+  - Shimusogo Opōgyo
 categories:
   - Shimusògo Topic
 needEdit: true

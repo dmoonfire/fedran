@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Byodenóre
-Title: Shimusogo Byodenóre
+Title: Byodenóre
+aliases:
+  - Shimusogo Byodenóre
 categories:
   - Person
   - Shimusògo Clan Member

@@ -1,8 +1,8 @@
 ---
 LocalWords: Pabinkue Tsubàyo Bàyo
-Title: Pabinkue Tsubàyo
+Title: Tsubàyo
 aliases:
-  - Tsubàyo
+  - Pabinkue Tsubàyo
   - Bàyo
 categories:
   - Person

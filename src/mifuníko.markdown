@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Mifuníko
-Title: Shimusogo Mifuníko
+Title: Mifuníko
+aliases:
+  - Shimusogo Mifuníko
 categories:
   - Person
   - Shimusògo Clan Member

@@ -1,6 +1,6 @@
 ---
 LocalWords: Shimusogo Mapábyo Hyonèku shimusogo hyonèku
-Title: Shimusogo Mapábyo
+Title: Mapábyo
 categories:
   - Person
   - Shimusògo Clan Member

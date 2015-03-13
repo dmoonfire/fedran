@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Yutsupazéso
-Title: Shimusogo Yutsupazéso
+Title: Yutsupazéso
+aliases:
+  - Shimusogo Yutsupazéso
 categories:
   - Person
   - Shimusògo Clan Member

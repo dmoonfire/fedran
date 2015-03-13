@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Somiryòki Tejíko
-Title: Shimusogo Somiryòki
+Title: Somiryòki
+aliases:
+  - Shimusogo Somiryòki
 categories:
   - Person
   - Shimusògo Clan Member

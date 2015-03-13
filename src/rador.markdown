@@ -1,6 +1,8 @@
 ---
 LocalWords: Rador Malastin
-Title: Rador Malastin
+Title: Rador
+aliases:
+  - Rador Malastin
 categories:
   - Person
   - Quote

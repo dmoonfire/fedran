@@ -1,5 +1,7 @@
 ---
-Title: Funikogo Ganósho
+Title: Ganósho
+aliases:
+  - Funikogo Ganósho
 categories:
   - Person
   - Funikògo Clan Member

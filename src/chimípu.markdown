@@ -1,8 +1,8 @@
 ---
 LocalWords: Shimusogo Chimípu Mípu
-Title: Shimusogo Chimípu
+Title: Chimípu
 aliases:
-  - Chimípu
+  - Shimusogo Chimípu
   - Mípu
 categories:
   - Person

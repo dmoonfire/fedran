@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Nidohána
-Title: Shimusogo Nidohána
+Title: Nidohána
+aliases:
+  - Shimusogo Nidohána
 categories:
   - Person
   - Shimusògo Clan Member

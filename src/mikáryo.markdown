@@ -1,6 +1,9 @@
 ---
 LocalWords: Pabinkue Mikáryo
-Title: Pabinkue Mikáryo
+Title: Mikáryo
+aliases:
+  - Pabinkue Mikáryo
+  - Káryo
 categories:
   - Person
   - Pabinkúe Clan Member

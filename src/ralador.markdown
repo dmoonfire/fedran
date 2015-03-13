@@ -2,7 +2,9 @@
 categories:
   - Person
   - Author
-title: Ralador Markin
+title: Ralador
+aliases:
+  - Ralador Markin
 ---
 
 Ralador Markin appeared without records on his thirtieth birthday. He created a family with a woman he loved and had three children.

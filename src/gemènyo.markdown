@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Gemènyo Shimusògo scopeWarning scopeReferences url Mènyo Gemènyo's
-Title: Shimusogo Gemènyo
+Title: Gemènyo
+aliases:
+  - Shimusogo Gemènyo
 categories:
   - Person
   - Shimusògo Clan Member

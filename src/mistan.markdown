@@ -4,7 +4,9 @@ categories:
   - Quote
   - Quoted Saying
   - Playwright
-title: Mistan Palarin
+title: Mistan
+aliases:
+  - Mistan Palarin
 ---
 
 Mistan Palarin had little talent beyond the ability to create a small measure of water. She spent most of her days cleaning buildings and guilds. During the night, she spent most of her time reading about foreign lands and writing fantastic plays about the places she could only see in her imagination.

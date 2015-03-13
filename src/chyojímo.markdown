@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Chyojímo
-Title: Shimusogo Chyojímo
+Title: Chyojímo
+aliases:
+  - Shimusogo Chyojímo
 categories:
   - Person
   - Shimusògo Clan Member

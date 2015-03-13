@@ -4,7 +4,9 @@ categories:
   - Clan Member
   - Basamíku Clan Member
   - Playwright
-title: Basamiku Goryápe
+title: Goryápe
+aliases:
+  - Basamiku Goryápe
 ---
 
 Basamiku Goryápe is a playwright known for a series of plays focused on [Mifúno], the desert spirit.

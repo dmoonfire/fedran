@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Panédo
-Title: Shimusogo Panédo
+Title: Panédo
+aliases:
+  - Shimusogo Panédo
 categories:
   - Person
   - Shimusògo Clan Member

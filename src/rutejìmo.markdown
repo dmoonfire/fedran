@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Rutejìmo Jìmo Hikòru Tejíko Somiryòki Desòchu tejíko Shimusògo Chyojímo shimusogo chyojímo hikòru desòchu Rutejìmo's banyosiōu Fedran somiryòki Pidòhu Chimípu Tsubàyo Karawàbi Chimípu's Byodenóre's byodenóre kyo Tsubàyo's Pabinkue Mikáryo
-Title: Shimusogo Rutejìmo
+Title: Rutejìmo
+aliases:
+  - Shimusogo Rutejìmo
 aliases:
   - Rutejìmo
   - Jìmo

@@ -5,7 +5,9 @@ categories:
   - Chidomífu Clan Member
   - Quote
   - Quoted Saying
-title: Chidomifu Kapōra
+title: Kapōra
+aliases:
+  - Chidomifu Kapōra
 ---
 
 A member of a day clan, Chidomifu Kapōra was a warrior who defended the roads surrounding her clan's village for her entire life. She spoke poorly of the night clans and offered no mercy to even those in need.

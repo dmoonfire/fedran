@@ -1,6 +1,8 @@
 ---
 LocalWords: Shimusogo Hikòru
-Title: Shimusogo Hikòru
+Title: Hikòru
+aliases:
+  - Shimusogo Hikòru
 categories:
   - Person
   - Shimusògo Clan Member

@@ -1,8 +1,8 @@
 ---
 LocalWords: Shimusogo Desòchu Sòchu
-Title: Shimusogo Desòchu
+Title: Desòchu
 aliases:
-  - Desòchu
+  - Shimusogo Desòchu
   - Sòchu
 categories:
   - Person

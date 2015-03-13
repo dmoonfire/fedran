@@ -1,9 +1,10 @@
 ---
-LocalWords: Tateshyuso Pidòhu Tateshyúso Dòhu
-Title: Tateshyuso Pidòhu
+LocalWords: Tateshyuso Pidòhu Tateshyúso Dòhu Shimusogo
+Title: Pidòhu
 aliases:
-  - Pidòhu
+  - Tateshyuso Pidòhu
   - Dòhu
+  - Shimusogo Pidòhu
 categories:
   - Person
   - Tateshyúso Clan Member

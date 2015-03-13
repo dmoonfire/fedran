@@ -1,5 +1,7 @@
 ---
-Title: Marfun Golem
+Title: Marfun
+aliases:
+  - Marfun Golem
 categories:
   - Person
   - Author

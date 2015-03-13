@@ -1,6 +1,9 @@
 ---
 Title: Shimusogo Rutejìmo
 summary: The slowest courier of the [Shimusògo]() clan and protagonist of [Sand and Blood]().
+aliases:
+  - Rutejìmo
+  - Jìmo
 categories:
   - Person
   - Shimusògo Clan Member

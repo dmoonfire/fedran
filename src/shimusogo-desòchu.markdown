@@ -1,11 +1,14 @@
 ---
 Title: Shimusogo Desòchu
+aliases:
+  - Desòchu
+  - Sòchu
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Desòchu
+LocalWords: Shimusogo Desòchu Sòchu
 scopeWarning: secondary
 scopeReferences:
   - title: Sand and Blood

@@ -1,11 +1,14 @@
 ---
 Title: Pabinkue Tsubàyo
+aliases:
+  - Tsubàyo
+  - Bàyo
 categories:
   - Person
   - Pabinkúe Clan Member
   - Clan Member
-  - Sand and Blood Characters
-LocalWords: Pabinkue Tsubàyo
+  - {category: Sand and Blood Characters, entry: Tsubàyo}
+LocalWords: Pabinkue Tsubàyo Bàyo
 scopeWarning: secondary
 scopeReferences:
   - title: Sand and Blood

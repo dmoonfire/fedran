@@ -1,11 +1,13 @@
 ---
-Title: Shimusogo Karawàbi
+Title: Karawàbi
+aliases:
+  - Wàbi
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Karawàbi
+LocalWords: Shimusogo Karawàbi Wàbi
 scopeWarning: secondary
 scopeReferences:
   - title: Sand and Blood

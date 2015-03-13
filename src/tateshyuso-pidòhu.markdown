@@ -1,11 +1,14 @@
 ---
 Title: Tateshyuso Pidòhu
+aliases:
+  - Pidòhu
+  - Dòhu
 categories:
   - Person
   - Tateshyúso Clan Member
   - Clan Member
-  - Sand and Blood Characters
-LocalWords: Tateshyuso Pidòhu Tateshyúso
+  - {category: Sand and Blood Characters, entry: Pidòhu}
+LocalWords: Tateshyuso Pidòhu Tateshyúso Dòhu
 scopeWarning: secondary
 scopeReferences:
   - title: Sand and Blood

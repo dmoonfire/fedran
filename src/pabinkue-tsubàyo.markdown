@@ -1,4 +1,5 @@
 ---
+LocalWords: Pabinkue Tsubàyo Bàyo
 Title: Pabinkue Tsubàyo
 aliases:
   - Tsubàyo
@@ -7,12 +8,13 @@ categories:
   - Person
   - Pabinkúe Clan Member
   - Clan Member
-  - {category: Sand and Blood Characters, entry: Tsubàyo}
-LocalWords: Pabinkue Tsubàyo Bàyo
-scopeWarning: secondary
+  - category: Sand and Blood Characters
+    entry: Tsubàyo
+needEdit: true
 scopeReferences:
   - title: Sand and Blood
     url: /sand-and-blood/
+scopeWarning: secondary
 ---
 
 Tsubàyo (also known as Bàyo) is a herd master of the [Pabinkúe]() clan.

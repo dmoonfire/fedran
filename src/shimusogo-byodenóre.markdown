@@ -1,11 +1,12 @@
 ---
+LocalWords: Shimusogo Byodenóre
 Title: Shimusogo Byodenóre
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Byodenóre
+needEdit: true
 ---
 
 Byodenóre is a courier of the [Shimusògo]() clan.

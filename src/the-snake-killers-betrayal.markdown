@@ -1,9 +1,9 @@
 ---
-title: The Snake Killer's Betrayal
 categories:
   - Play
   - Quoted Play
   - Quote
+title: The Snake Killer's Betrayal
 ---
 
 A four act play written by [Basamiku Goryápe](), *The Snake Killer's Betrayal* is a tale about a slightly dim thief who is trying to steal from a band of bandits. When the bandits  accidentally kill a [kojinōmi]() from a snake clan, the thief is set up to take the blame.

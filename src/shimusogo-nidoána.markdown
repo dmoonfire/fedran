@@ -1,11 +1,12 @@
 ---
+LocalWords: Shimusogo Nidohána
 Title: Shimusogo Nidohána
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Nidohána
+needEdit: true
 ---
 
 Nidohána (Hána) is a courier of the [Shimusògo]() clan.

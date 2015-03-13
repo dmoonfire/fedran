@@ -1,9 +1,9 @@
 ---
-Title: The World of Fedran
+Title: World
 plugins:
   countries:
-    type: Insert Category
     category: Country
+    type: Insert Category
 ---
 
 The world of [Fedran](/) is a rich one with a wide variety of fantastic locations, growing industry, and countless stories both large and small.

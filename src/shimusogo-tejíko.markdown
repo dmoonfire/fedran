@@ -1,15 +1,15 @@
 ---
+LocalWords: Shimusogo Tejíko Shimusògo Hikòru shimusogo hikòru kyo
 Title: Shimusogo Tejíko
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Tejíko Shimusògo Hikòru shimusogo hikòru kyo
-scopeWarning: secondary
 scopeReferences:
   - title: Sand and Blood
     url: /sand-and-blood/
+scopeWarning: secondary
 ---
 
 Tejíko is a courier of the [Shimusògo]() clan. This is known to be violent when angry and is well-known for beating children for punishment or chasing them out of the valley.

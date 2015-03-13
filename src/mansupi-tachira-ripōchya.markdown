@@ -1,10 +1,10 @@
 ---
+LocalWords: mansupi tachira ripōchya
 Title: mansupi tachira ripōchya
 categories:
   - Kyōti
   - Calendar
   - Kyōti Topic
-LocalWords: mansupi tachira ripōchya
 ---
 
 The *mansupi tachira ripōchya* is the most recent of the tachira ripōchya (solar calendars) in the country of [Kyōti](). It consists of eight months ranging from forty-four to forty-seven days. To adjust the calendar for imperfect cycles, some months lose ("fall back") one day every 4, 8, or 16 years. These fall days are in the appropriate years evenly divisible by their respective number.

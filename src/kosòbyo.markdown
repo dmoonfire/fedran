@@ -1,10 +1,11 @@
 ---
-title: Kosòbyo
 categories:
   - Kyōti Clan
   - Tachìra Clan
   - Quote
   - Quoted Saying
+needEdit: true
+title: Kosòbyo
 ---
 
 The Kosòbyo are one of the first and most powerful of the day clans in [Kyōti]().

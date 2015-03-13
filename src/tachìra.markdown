@@ -1,15 +1,15 @@
 ---
+LocalWords: Chobìre Kyōti Tachìra Mifúno Tachìra's Chobìre's
 Title: Tachìra
 categories:
   - Kyōti Clan
-LocalWords: Chobìre Kyōti Tachìra Mifúno Tachìra's Chobìre's
 plugins:
   clans:
-    type: Insert Category
     category: Tachìra Clan
-  members:
     type: Insert Category
+  members:
     category: Tachìra Clan Member
+    type: Insert Category
 ---
 
 Tachìra is one of the three great spirits of [Kyōti](). He is the most powerful spirit in all of the desert, mainly due to the presence of the sun which is his manifestation. He is in love with [Mifúno](), the desert spirit, but battles against [Chobìre](), the moon, for her affections.

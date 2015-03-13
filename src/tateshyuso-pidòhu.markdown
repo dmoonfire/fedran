@@ -1,4 +1,5 @@
 ---
+LocalWords: Tateshyuso Pidòhu Tateshyúso Dòhu
 Title: Tateshyuso Pidòhu
 aliases:
   - Pidòhu
@@ -7,12 +8,13 @@ categories:
   - Person
   - Tateshyúso Clan Member
   - Clan Member
-  - {category: Sand and Blood Characters, entry: Pidòhu}
-LocalWords: Tateshyuso Pidòhu Tateshyúso Dòhu
-scopeWarning: secondary
+  - category: Sand and Blood Characters
+    entry: Pidòhu
+needEdit: true
 scopeReferences:
   - title: Sand and Blood
     url: /sand-and-blood/
+scopeWarning: secondary
 ---
 
 Pidòhu (Dòhu) is a sage of the [Tateshyúso]() clan.

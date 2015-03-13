@@ -1,11 +1,11 @@
 ---
-title: Kimichyufi Garèki
 categories:
   - Person
   - Clan Member
   - Kimichyúfi Clan Member
   - Quote
   - Quoted Saying
+title: Kimichyufi Garèki
 ---
 
 Kimichyufi Garèki was a warrior who refused to leave his clan's ancestral home. He became a guardian and dedicated himself to protecting the clan's young while the rest of his clan waged war halfway across the desert.

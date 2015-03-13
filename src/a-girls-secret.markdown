@@ -1,10 +1,10 @@
 ---
-title: A Girl's Secret
 categories:
   - Book
   - Quoted Book
   - Quote
   - Autobiography
+title: A Girl's Secret
 ---
 
 Written by [Ralador Markin]() but not discovered until after his death, *A Girl's Secret* is a novel about a girl who struggled with her gender identity throughout her childhood. The book details her journey to twist her body into being a male, but it is mostly a series of harrowing failures that left her physically twisted and deformed.

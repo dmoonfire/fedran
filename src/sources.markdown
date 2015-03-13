@@ -2,8 +2,8 @@
 Title: Sources
 plugins:
   sources:
-    type: Insert Category
     category: Source
+    type: Insert Category
 ---
 
 Fedran is built up primarily through source materials such as novels and stories.

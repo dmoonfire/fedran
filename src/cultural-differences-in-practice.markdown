@@ -1,9 +1,9 @@
 ---
-title: Cultural Differences in Practice
 categories:
   - Quote
   - Quoted Essay
   - Essay
+title: Cultural Differences in Practice
 ---
 
 One of the first mechanically reproduced essay, the authors of *Cultural Differences in Practice* are unknown. It was delivered to a number of scholars in seven different cities in the same night, but no one stood up to claim organizing the posting or writing it.

@@ -1,8 +1,9 @@
 ---
+LocalWords: Shimusògo
 Title: Shimusogo Valley
 categories:
   - Shimusògo Topic
-LocalWords: Shimusògo
+needEdit: true
 ---
 
 Shimusogo Valley is the ancestral home of the [Shimusògo]().

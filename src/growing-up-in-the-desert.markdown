@@ -1,10 +1,10 @@
 ---
-title: Growing Up in the Desert
 categories:
   - Quote
   - Quoted Book
   - Book
   - Autobiography
+title: Growing Up in the Desert
 ---
 
 *Growing Up in the Desert* is an autobiography written by [Laminar Gold](). It describes the first eighteen years of his life before he fled the country and sought shelter in [Kormar]().

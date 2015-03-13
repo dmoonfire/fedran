@@ -1,21 +1,21 @@
 ---
+LocalWords: Shimusògo Mifuno dépa dépa's dépas Rutejìmo shimusogo rutejìmo
 Title: Shimusògo
 categories:
   - Kyōti Clan
   - Tachìra Clan
-LocalWords: Shimusògo Mifuno dépa dépa's dépas Rutejìmo shimusogo rutejìmo
 plugins:
   members:
-    type: Insert Category
     category: Shimusògo Clan Member
-    strip: "Shimusogo "
-  topics:
+    strip: 'Shimusogo '
     type: Insert Category
+  topics:
     category: Shimusògo Topic
-scopeWarning: secondary
+    type: Insert Category
 scopeReferences:
   - title: Sand and Blood
     url: /sand-and-blood/
+scopeWarning: secondary
 ---
 
 The Shimusògo is a small [Kyōti](/kyōti/) clan located on the western part of the Mifuno Desert. They are known as couriers and deliver mail and legal documents between the other clans. Special contracts are made for negotiations, when documents and deals are traded back and forth but the individual parties are unable to meet with each other.

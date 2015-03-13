@@ -1,11 +1,12 @@
 ---
+LocalWords: Shimusogo Somiryòki Tejíko
 Title: Shimusogo Somiryòki
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Somiryòki Tejíko
+needEdit: true
 ---
 
 Somiryòki is a [warrior](/kyōti-warrior/) of the [Shimusògo]() clan.

@@ -1,15 +1,15 @@
 ---
+LocalWords: Kyōti Tarsan tarsan Tachìra Mifúno kojinōmi Mifúno's
 Title: Kyōti
 categories:
   - Country
-LocalWords: Kyōti Tarsan tarsan Tachìra Mifúno kojinōmi Mifúno's
 plugins:
   clans:
-    type: Insert Category
     category: Kyōti Clan
-  topics:
     type: Insert Category
+  topics:
     category: Kyōti Topic
+    type: Insert Category
 ---
 
 Kyōti is a loose confederation of disparate clans that live in vast deserts of the southern hemisphere. It is barely a country, but it has no representation in [Tarsan](), or anywhere else for that matter. Even the inhabitants of the desert don't view as Kyōti as anything besides a foreigner's need to have a neat label to describe the rich diversity spread out among the inhospitable sands.

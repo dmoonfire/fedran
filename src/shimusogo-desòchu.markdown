@@ -1,4 +1,5 @@
 ---
+LocalWords: Shimusogo Desòchu Sòchu
 Title: Shimusogo Desòchu
 aliases:
   - Desòchu
@@ -8,11 +9,11 @@ categories:
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Desòchu Sòchu
-scopeWarning: secondary
+needEdit: true
 scopeReferences:
   - title: Sand and Blood
     url: /sand-and-blood/
+scopeWarning: secondary
 ---
 
 Desòchu (Sòchu) is a [warrior](/kyōti-warrior/) of the [Shimusògo]() clan.

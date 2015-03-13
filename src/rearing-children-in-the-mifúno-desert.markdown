@@ -1,9 +1,9 @@
 ---
-title: Rearing Children in the Mifúno Desert
 categories:
   - Quote
   - Quoted Essay
   - Essay
+title: Rearing Children in the Mifúno Desert
 ---
 
 *Rearing Children in the Mifúno Desert* is a collection of essays written by [Laminar Gold]() during his final years of life. It has his observations on both how the desert clans raise children and how the sterile warriors protect their clans.

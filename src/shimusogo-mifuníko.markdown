@@ -1,15 +1,16 @@
 ---
+LocalWords: Shimusogo Mifuníko
 Title: Shimusogo Mifuníko
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Mifuníko
-scopeWarning: secondary
+needEdit: true
 scopeReferences:
   - title: Sand and Blood
     url: /sand-and-blood/
+scopeWarning: secondary
 ---
 
 Mifuníko is a courier of the [Shimusògo]() clan.

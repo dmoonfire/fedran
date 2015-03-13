@@ -1,6 +1,6 @@
 ---
+LocalWords: Shimusogo Rutejìmo Jìmo Hikòru Tejíko Somiryòki Desòchu tejíko Shimusògo Chyojímo shimusogo chyojímo hikòru desòchu Rutejìmo's banyosiōu Fedran somiryòki Pidòhu Chimípu Tsubàyo Karawàbi Chimípu's Byodenóre's byodenóre kyo Tsubàyo's Pabinkue Mikáryo
 Title: Shimusogo Rutejìmo
-summary: The slowest courier of the [Shimusògo]() clan and protagonist of [Sand and Blood]().
 aliases:
   - Rutejìmo
   - Jìmo
@@ -8,8 +8,10 @@ categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-  - {category: Sand and Blood Characters, entry: Rutejìmo}
-LocalWords: Shimusogo Rutejìmo Jìmo Hikòru Tejíko Somiryòki Desòchu tejíko Shimusògo Chyojímo shimusogo chyojímo hikòru desòchu Rutejìmo's banyosiōu Fedran somiryòki Pidòhu Chimípu Tsubàyo Karawàbi Chimípu's Byodenóre's byodenóre kyo Tsubàyo's Pabinkue Mikáryo
+  - category: Sand and Blood Characters
+    entry: Rutejìmo
+needEdit: true
+summary: 'The slowest courier of the [Shimusògo]() clan and protagonist of [Sand and Blood]().'
 ---
 
 Rutejìmo (Jìmo for short) is a courier of the [Shimusògo]() clan. While growing up, he was unremarkable but he quickly became one of their greatest legends.

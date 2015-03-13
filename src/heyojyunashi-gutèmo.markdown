@@ -1,11 +1,11 @@
 ---
-title: Heyojyunashi Gutèmo
 categories:
   - Person
   - Heyojyunāshi Clan Member
   - Clan Member
   - Quote
   - Quoted Saying
+title: Heyojyunashi Gutèmo
 ---
 
 Only a year after he gained powers from the Heyojyunāshi clan, Gutèmo was ostracized for killing his father in a fit of anger. He spent his entire life wandering the desert and preaching to others about his mistake, but as one of the living dead, the only people who would listen where those also ostracized.

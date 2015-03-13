@@ -1,10 +1,10 @@
 ---
-title: Yunujyoraze Byomími
 categories:
   - Person
   - Clan Member
   - Yunujyoráze Clan Member
   - Quote
+title: Yunujyoraze Byomími
 ---
 
 Yunujyoraze Byomími was a scholar and a poet, but most of her writings were destroyed when her ancestral home was invaded by the neighboring clans. She was known for preaching for aggressive defenses of the country and the need to build up a military to defend the clans from each other.

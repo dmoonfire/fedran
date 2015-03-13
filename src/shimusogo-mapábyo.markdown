@@ -1,11 +1,12 @@
 ---
+LocalWords: Shimusogo Mapábyo Hyonèku shimusogo hyonèku
 Title: Shimusogo Mapábyo
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Mapábyo Hyonèku shimusogo hyonèku
+needEdit: true
 ---
 
 Mapábyo (Pábyo) is a young girl of the [Shimusògo]() clan.

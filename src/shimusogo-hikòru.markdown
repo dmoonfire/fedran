@@ -1,10 +1,11 @@
 ---
+LocalWords: Shimusogo Hikòru
 Title: Shimusogo Hikòru
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-LocalWords: Shimusogo Hikòru
+needEdit: true
 ---
 
 Hikòru is a courier of the [Shimusògo]() clan who was later struck from public record when he was declared [dead to the clan](/banyosiōu/) for excessive drinking, endangering the rest of the clan, and the desire for suicide.

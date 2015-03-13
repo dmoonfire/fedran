@@ -1,8 +1,9 @@
 ---
+LocalWords: Opōgyo
 Title: Shimusogo Opōgyo
 categories:
   - Shimusògo Topic
-LocalWords: Opōgyo
+needEdit: true
 ---
 
 Opōgyo is one of three mechanical dog that are used for carrying items in the [Shimusogo Valley](). They were gifts from a thankful clan for delivering a treaty but no one in the clan knew how to properly maintain them beyond the simple need to refill the steam supply or seal up any leaks.

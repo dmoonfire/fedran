@@ -1,12 +1,12 @@
 ---
+LocalWords: Shimusògo Mifuno
 Title: Quotes
 categories:
   - World
-LocalWords: Shimusògo Mifuno
 plugins:
   quotes:
-    type: Insert Category
     category: Quote
+    type: Insert Category
 ---
 
 The novels set in Fedran all start with a quote at the beginning of the chapter. Originally, this was a way of giving the reader some information about the world without having a ham-fisted "as everyone in the room knows, these two kingdoms..." type of plot exposition.

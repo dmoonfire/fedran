@@ -1,15 +1,15 @@
 ---
+LocalWords: Chobìre Kyōti Tachìra Mifúno Tachìra's Chobìre's
 Title: Mifúno
 categories:
   - Kyōti Clan
-LocalWords: Chobìre Kyōti Tachìra Mifúno Tachìra's Chobìre's
 plugins:
   clans:
-    type: Insert Category
     category: Mifúno Clan
-  members:
     type: Insert Category
+  members:
     category: Mifúno Clan Member
+    type: Insert Category
 ---
 
 The spirit of the [Mifuno Desert](), Mifúno is one of the three most powerful spirits in the desert. She is also the only female among the triad. Both Tachìra and Chobìre fight for her affections because she is unwilling to choose one over the other.

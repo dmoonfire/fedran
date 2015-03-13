@@ -1,11 +1,11 @@
 ---
-title: Ryugamiku Byotsúma
 categories:
   - Person
   - Clan Member
   - Ryugamìku Clan Member
   - Quote
   - Quoted Saying
+title: Ryugamiku Byotsúma
 ---
 
 Ryugamiku Byotsúma was a courier for most of his life, but he had a unique way of looking at the world that soon he was deliverying his own saying more than papers and documents. He spoke almost solely of Tachìra and had the utmost respect for the sun god, despite being a member of a night clan.

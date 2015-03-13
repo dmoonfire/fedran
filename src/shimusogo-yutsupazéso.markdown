@@ -1,11 +1,12 @@
 ---
+LocalWords: Shimusogo Yutsupazéso
 Title: Shimusogo Yutsupazéso
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Yutsupazéso
+needEdit: true
 ---
 
 Yutsupazéso is a courier of the [Shimusògo]() clan.

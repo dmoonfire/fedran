@@ -1,11 +1,12 @@
 ---
+LocalWords: Shimusogo Kizúchi
 Title: Shimusogo Kizúchi
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Kizúchi
+needEdit: true
 ---
 
 Kizúchi (Zúchi) is a courier of the [Shimusògo]() clan.

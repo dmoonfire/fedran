@@ -1,9 +1,9 @@
 ---
-title: Kamanen Porlin
 categories:
   - Person
   - Quote
   - Quoted Saying
+title: Kamanen Porlin
 ---
 
 A master of the Crystal Method of magic, Kamanen Porlin helped shape how magic was taught in [Tarsan]() and most of the civilized world.

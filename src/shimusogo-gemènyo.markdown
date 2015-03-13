@@ -1,15 +1,16 @@
 ---
+LocalWords: Shimusogo Gemènyo Shimusògo scopeWarning scopeReferences url Mènyo Gemènyo's
 Title: Shimusogo Gemènyo
 categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
-LocalWords: Shimusogo Gemènyo Shimusògo scopeWarning scopeReferences url Mènyo Gemènyo's
-scopeWarning: secondary
+needEdit: true
 scopeReferences:
   - title: Sand and Blood
     url: /sand-and-blood/
+scopeWarning: secondary
 ---
 
 Gemènyo (Mènyo) is a courier of the [Shimusògo]() clan.

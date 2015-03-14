@@ -1,12 +1,13 @@
 ---
 Title: Plot
 LocalWords: Hyonèku hyonèku tejíko Gemènyo Rutejìmo Shimusogo shimusogo Gemènyo's Chimípu tateshyuso Pidòhu Karawàbi Shimusògo tsubàyo chimípu karawàbi pidòhu Tsubàyo's Karawàbi's pabinkue mikáryo Chimípu's Tateshyúso
-scopeWarning: plot
 ---
 
 [Sand and Blood](/sand-and-blood/) starts with [Shimusogo Rutejìmo]() trying to sneak into the clan's shrine to steal his great-grandfather's ashes in an effort to prove himself capable. He was caught by [Hyonèku](/shimusogo-hyonèku/) and forced to tell his grandmother, [Tejíko](/shimusogo-tejíko/).
 
 When Tejíko found out about his failed attempt to steal, she started to beat him until [Gemènyo](/shimusogo-gemènyo/) interrupted. Tejíko stops beating Rutejìmo and lets Gemènyo talk to Rutejìmo. Gemènyo's talk points out that Rutejìmo has never applied himself and most of the clan considered him to be too weak to amount to anything.
+
+{{spoiler: Sand and Blood}}
 
 Despite this, he was sent on a rite of passage to let the desert determine his future with the clan and to see if [Shimusògo]() would grant him magic. The other four teenagers near his age were included: [Chimípu](/shimusogo-chimípu/), [Pidòhu](/tateshyuso-pidòhu/), [Tsubàyo](/pabinkue-tsubàyo/), and [Karawàbi](/shimusogo-karawàbi/).
 

@@ -10,10 +10,10 @@ categories:
   - Clan Member
   - Sand and Blood Characters
   - Sand and Blood Secondary Characters
-summary: One of the most powerful of the [Shimusògo]() [warriors](/kyōti-warrior/) and [Rutejìmo's](/rutejìmo/) brother.
+summary: One of the most powerful of the [Shimusògo]() [warriors](/kyōti-warrior/).
 ---
 
-Desòchu (Sòchu) is a [warrior](/kyōti-warrior/) of the [Shimusògo]() clan, one of the most powerful. He is powerful, friendly, and personable.
+Desòchu (Sòchu) is a [warrior](/kyōti-warrior/) of the [Shimusògo]() clan, one of the most powerful. He was one of the fastest and strongest of the warriors but also friendly and personable. While not the official leader of the clan, he stood as the moral anchor for the rest of the clan.
 
 # Early Life
 

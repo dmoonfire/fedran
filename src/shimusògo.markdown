@@ -7,18 +7,13 @@ categories:
 plugins:
   members:
     category: Shimusògo Clan Member
-    strip: 'Shimusogo '
     type: Insert Category
   topics:
     category: Shimusògo Topic
     type: Insert Category
-scopeReferences:
-  - title: Sand and Blood
-    url: /sand-and-blood/
-scopeWarning: secondary
 ---
 
-The Shimusògo is a small [Kyōti](/kyōti/) clan located on the western part of the Mifuno Desert. They are known as couriers and deliver mail and legal documents between the other clans. Special contracts are made for negotiations, when documents and deals are traded back and forth but the individual parties are unable to meet with each other.
+The Shimusògo is a small [Kyōti](/kyōti/) clan located on the western part of the [Mifuno Desert](). They are known as couriers and deliver mail and legal documents between the other clans. Special contracts are made for negotiations, when documents and deals are traded back and forth but the individual parties are unable to meet with each other.
 
 # Powers
 

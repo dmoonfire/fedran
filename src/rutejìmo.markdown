@@ -3,8 +3,6 @@ LocalWords: Shimusogo Rutejìmo Jìmo Hikòru Tejíko Somiryòki Desòchu tejík
 Title: Rutejìmo
 aliases:
   - Shimusogo Rutejìmo
-aliases:
-  - Rutejìmo
   - Jìmo
 categories:
   - Person
@@ -12,11 +10,10 @@ categories:
   - Clan Member
   - Sand and Blood Characters
   - Sand and Blood Primary Characters
-needEdit: true
-summary: 'The slowest courier of the [Shimusògo]() clan and protagonist of [Sand and Blood]().'
+summary: "The slowest and weakest of the [Shimusògo]() clan."
 ---
 
-Rutejìmo (Jìmo for short) is a courier of the [Shimusògo]() clan. While growing up, he was unremarkable but he quickly became one of their greatest legends.
+Rutejìmo (Jìmo for short) is a teenager of the [Shimusògo]() clan. While growing up, he was unremarkable and had little skill to make himself notable. But, over the years, he slowly became something more.
 
 # Early Life
 

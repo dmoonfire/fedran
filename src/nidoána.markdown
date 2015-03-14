@@ -8,8 +8,8 @@ categories:
   - Person
   - Tateshyúso Clan Member
   - Clan Member
-  - Sand and Blood Characters
-  - Sand and Blood Tertiary Characters
+  - Sand and Blood Character
+  - Sand and Blood Tertiary Character
 summary: A sage of the [Tateshyúso]() clan who lost her eye during her rite of passage.
 ---
 

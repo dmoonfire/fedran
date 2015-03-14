@@ -9,8 +9,8 @@ categories:
   - Person
   - Tateshyúso Clan Member
   - Clan Member
-  - Sand and Blood Secondary Characters
-  - Sand and Blood Characters
+  - Sand and Blood Secondary Character
+  - Sand and Blood Character
 summary: A weak, intellectual teenager that grew up among the [Shimusògo]() clan.
 ---
 

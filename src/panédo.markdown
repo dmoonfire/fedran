@@ -7,8 +7,8 @@ categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-  - Sand and Blood Characters
-  - Sand and Blood Tertiary Characters
+  - Sand and Blood Character
+  - Sand and Blood Tertiary Character
 summary: A courier of the [Shimusògo]() clan.
 ---
 

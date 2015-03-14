@@ -8,8 +8,8 @@ categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-  - Sand and Blood Secondary Characters
-  - Sand and Blood Characters
+  - Sand and Blood Secondary Character
+  - Sand and Blood Character
 summary: "A competent teenager of the [Shimusògo]() destined to become a [warrior](/kyōti-warrior/)."
 ---
 

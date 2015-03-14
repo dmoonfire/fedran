@@ -8,8 +8,8 @@ categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-  - Sand and Blood Characters
-  - Sand and Blood Secondary Characters
+  - Sand and Blood Character
+  - Sand and Blood Secondary Character
 summary: "A young girl adopted by [Hyonèku]() and [Kiríshi]() after her family was killed."
 ---
 

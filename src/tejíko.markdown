@@ -7,8 +7,8 @@ categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-  - Sand and Blood Characters
-  - Sand and Blood Secondary Characters
+  - Sand and Blood Character
+  - Sand and Blood Secondary Character
 summary: "A retired, ill-tempered courier of the [Shimusògo]() who still dreamed of mapping the world while she raised her youngest grandson."
 ---
 

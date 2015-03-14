@@ -8,8 +8,8 @@ categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-  - Sand and Blood Characters
-  - Sand and Blood Secondary Characters
+  - Sand and Blood Character
+  - Sand and Blood Secondary Character
 summary: One of the most powerful of the [Shimusògo]() [warriors](/kyōti-warrior/).
 ---
 

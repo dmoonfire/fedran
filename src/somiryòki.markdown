@@ -7,8 +7,8 @@ categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-  - Sand and Blood Characters
-  - Sand and Blood Secondary Characters
+  - Sand and Blood Character
+  - Sand and Blood Secondary Character
 summary: A [Shimusògo]() [warrior](/kyōti-warrior/) who was forced into retirement after he was ambushed.
 ---
 

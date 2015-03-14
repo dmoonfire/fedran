@@ -4,15 +4,15 @@ LocalWords: Hyonèku hyonèku tejíko Gemènyo Rutejìmo Shimusogo shimusogo Gem
 plugins:
   primary:
     type: Insert Category
-    category: Sand and Blood Primary Characters
+    category: Sand and Blood Primary Character
     format: list
   secondary:
     type: Insert Category
-    category: Sand and Blood Secondary Characters
+    category: Sand and Blood Secondary Character
     format: list
   tertiary:
     type: Insert Category
-    category: Sand and Blood Tertiary Characters
+    category: Sand and Blood Tertiary Character
     format: list
 ---
 

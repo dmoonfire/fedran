@@ -7,8 +7,8 @@ categories:
   - Person
   - Tateshyúso Clan Member
   - Clan Member
-  - Sand and Blood Characters
-  - Sand and Blood Secondary Characters
+  - Sand and Blood Character
+  - Sand and Blood Secondary Character
 summary: "An elderly sage and leader of the [Tateshyúso]() clan who rarely left the [Shimusogo Valley]()."
 ---
 

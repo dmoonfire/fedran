@@ -10,8 +10,8 @@ categories:
   - Person
   - Pabinkúe Clan Member
   - Clan Member
-  - Sand and Blood Characters
-  - Sand and Blood Secondary Characters
+  - Sand and Blood Character
+  - Sand and Blood Secondary Character
 summary: A bully who grew up with the [Shimusògo]() clan.
 ---
 

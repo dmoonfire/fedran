@@ -8,8 +8,8 @@ categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-  - Sand and Blood Characters
-  - Sand and Blood Primary Characters
+  - Sand and Blood Character
+  - Sand and Blood Primary Character
 summary: "The slowest and weakest of the [Shimusògo]() clan."
 ---
 

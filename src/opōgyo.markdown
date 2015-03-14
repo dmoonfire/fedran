@@ -5,8 +5,8 @@ aliases:
   - Shimusogo Opōgyo
 categories:
   - Shimusògo Topic
-  - Sand and Blood Characters
-  - Sand and Blood Tertiary Characters
+  - Sand and Blood Character
+  - Sand and Blood Tertiary Character
 summary: "A mechanical dog used by the [Shimusògo]() to carry items around their [valley](/shimusogo-valley/)."
 ---
 

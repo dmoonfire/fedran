@@ -11,10 +11,6 @@ categories:
   - Sand and Blood Characters
   - Sand and Blood Secondary Characters
 needEdit: true
-scopeReferences:
-  - title: Sand and Blood
-    url: /sand-and-blood/
-scopeWarning: secondary
 ---
 
 Mikáryo (Káryo) is a [warrior](/kyōti-warrior/) of the [Pabinkúe]() clan.

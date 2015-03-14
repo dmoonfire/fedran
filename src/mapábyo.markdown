@@ -3,6 +3,7 @@ LocalWords: Shimusogo Mapábyo Hyonèku shimusogo hyonèku Pábyo Kiríshi Gemè
 Title: Mapábyo
 aliases:
   - Pábyo
+  - Shimusogo Mapábyo
 categories:
   - Person
   - Shimusògo Clan Member

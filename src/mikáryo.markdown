@@ -4,6 +4,8 @@ Title: Mikáryo
 aliases:
   - Pabinkue Mikáryo
   - Káryo
+  - Datobàpo
+  - Bàpo
 categories:
   - Person
   - Pabinkúe Clan Member

@@ -4,6 +4,8 @@ Title: Tsubàyo
 aliases:
   - Pabinkue Tsubàyo
   - Bàyo
+  - Ryachuikùo
+  - Ganifúma
 categories:
   - Person
   - Pabinkúe Clan Member

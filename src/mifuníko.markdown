@@ -3,6 +3,7 @@ LocalWords: Shimusogo Mifuníko Desòchu Shimusògo Mifuníko's ambusher Chimíp
 Title: Mifuníko
 aliases:
   - Shimusogo Mifuníko
+  - Rabedájyo
 categories:
   - Person
   - Shimusògo Clan Member

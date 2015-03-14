@@ -6,7 +6,6 @@ categories:
   - Sand and Blood Quote
   - Quote
   - Quoted Saying
-needEdit: true
 ---
 
 Kormar is a duoarchy located in the northern part of the hemisphere. It is remarkable in that it has two leaders, the Golden Queen and the Silver King, who both claim leadership of the country and are politically hostile toward each other.

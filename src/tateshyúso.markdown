@@ -1,5 +1,6 @@
 ---
 LocalWords: Tateshyúso Kyōti Tachìra kyōti Mifuno Shimusogo Shimusògo Tateshyúso's
+title: Tateshyúso
 categories:
   - Kyōti Clan
   - Tachìra Clan

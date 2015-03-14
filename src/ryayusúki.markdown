@@ -13,4 +13,4 @@ plugins:
     type: Insert Category
 ---
 
-The Ryayusúki is a small [Kyōti](/kyōti/) clan located on the western part of the Mifuno Desert.
+The Ryayusúki is a small [Kyōti](/kyōti/) clan located on the western part of the [Mifuno Desert]().

@@ -1,5 +1,7 @@
 ---
-Title: Paladin Ruse
+Title: Paladin
+aliases:
+  - Paladin Ruse
 category:
   - Sand and Blood Quote
   - Quote

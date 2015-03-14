@@ -8,18 +8,21 @@ categories:
 
 # Series
 
-The "Rutejìmo" series is a trilogy of three books exploring the life of [Shimusogo Rutejìmo]().
+The "Rutejìmo" series is a trilogy of three books exploring the life of [Rutejìmo]().
 
 1. *Sand and Blood*
 2. [Sand and Ash]()
 3. [Sand and Bone]()
 
-# Summary
+# Characters
 
-*Sand and Blood* is about Rutejìmo's brutal coming-of-age.
+* [List of Characters](characters/)
+
+# Plot Summary
+
+*Sand and Blood* is about Rutejìmo's rites of passage and his struggles as he became a man.
 
 * [Plot Summary](plot/)
-* [List of Characters](characters/)
 
 # Additional Links
 

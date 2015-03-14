@@ -9,6 +9,7 @@ categories:
   - Pabinkúe Clan Member
   - Clan Member
   - Sand and Blood Characters
+  - Sand and Blood Secondary Characters
 needEdit: true
 scopeReferences:
   - title: Sand and Blood

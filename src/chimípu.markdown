@@ -8,8 +8,8 @@ categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-  - category: Sand and Blood Characters
-    entry: Chimípu
+  - Sand and Blood Secondary Characters
+  - Sand and Blood Characters
 needEdit: true
 scopeReferences:
   - title: Sand and Blood

@@ -8,6 +8,7 @@ categories:
   - Shimusògo Clan Member
   - Clan Member
   - Sand and Blood Characters
+  - Sand and Blood Secondary Characters
 scopeReferences:
   - title: Sand and Blood
     url: /sand-and-blood/

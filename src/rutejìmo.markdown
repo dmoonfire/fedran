@@ -10,8 +10,8 @@ categories:
   - Person
   - Shimusògo Clan Member
   - Clan Member
-  - category: Sand and Blood Characters
-    entry: Rutejìmo
+  - Sand and Blood Characters
+  - Sand and Blood Primary Characters
 needEdit: true
 summary: 'The slowest courier of the [Shimusògo]() clan and protagonist of [Sand and Blood]().'
 ---

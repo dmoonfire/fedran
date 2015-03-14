@@ -8,8 +8,8 @@ categories:
   - Person
   - Pabinkúe Clan Member
   - Clan Member
-  - category: Sand and Blood Characters
-    entry: Tsubàyo
+  - Sand and Blood Characters
+  - Sand and Blood Secondary Characters
 needEdit: true
 scopeReferences:
   - title: Sand and Blood

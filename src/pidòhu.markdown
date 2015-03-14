@@ -9,8 +9,8 @@ categories:
   - Person
   - Tateshyúso Clan Member
   - Clan Member
-  - category: Sand and Blood Characters
-    entry: Pidòhu
+  - Sand and Blood Secondary Characters
+  - Sand and Blood Characters
 needEdit: true
 scopeReferences:
   - title: Sand and Blood

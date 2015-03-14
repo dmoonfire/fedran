@@ -4,7 +4,6 @@ categories:
   - Clan Member
   - Shimusògo Clan Member
   - Poet
-needEdit: true
 title: Nedorómi
 aliases:
   - Shimusogo Nedorómi

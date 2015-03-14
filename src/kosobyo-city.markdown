@@ -2,7 +2,6 @@
 categories:
   - City
   - Kosòbyo Location
-needEdit: true
 title: Kosobyo City
 ---
 

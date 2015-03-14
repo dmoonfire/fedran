@@ -4,6 +4,7 @@ Title: Opōgyo
 aliases:
   - Shimusogo Opōgyo
 categories:
+  - Device
   - Shimusògo Topic
   - Sand and Blood Character
   - Sand and Blood Tertiary Character

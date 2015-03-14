@@ -1,5 +1,8 @@
 ---
 title: Jastor
+categories:
+  - Organization
+  - Tarsan Organization
 ---
 
 Jastor is an apparently non-biased research organization in [Tarsan]() which tries to analyze the pros and cons of various actions by the ruling families.

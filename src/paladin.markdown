@@ -3,6 +3,7 @@ Title: Paladin
 aliases:
   - Paladin Ruse
 category:
+  - Person
   - Sand and Blood Quote
   - Quote
 ---

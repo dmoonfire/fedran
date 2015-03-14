@@ -1,6 +1,8 @@
 ---
 LocalWords: dépa Miwāfu shimusogo Shimusògo
 title: dépa
+categories:
+  - Creature
 ---
 
 A [Miwāfu]() word, dépa means any small bird.

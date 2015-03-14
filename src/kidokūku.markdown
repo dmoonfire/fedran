@@ -2,7 +2,6 @@
 categories:
   - Kyōti Clan
   - Chobìre Clan
-needEdit: true
 plugins:
   members:
     category: Kidokūku Clan Member

@@ -1,6 +1,7 @@
 ---
 category:
   - Quote
+  - Sand and Blood Quote
   - Quoted Essay
 title: Primitive Legends of the Mifúno Desert
 ---

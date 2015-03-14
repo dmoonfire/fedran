@@ -1,6 +1,7 @@
 ---
 Title: Paladin Ruse
 category:
+  - Sand and Blood Quote
   - Quote
 ---
 

@@ -1,6 +1,7 @@
 ---
 categories:
-  - Quote
+  - Quote 
+  - Sand and Blood Quote
   - Quoted Essay
   - Essay
 title: Rearing Children in the Mifúno Desert

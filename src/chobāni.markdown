@@ -2,6 +2,7 @@
 categories:
   - Person
   - Clan Member
+  - Sand and Blood Quote
   - Mifukìga Clan Member
   - Quote
   - Quoted Saying

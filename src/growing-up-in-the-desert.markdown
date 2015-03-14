@@ -1,6 +1,7 @@
 ---
 categories:
   - Quote
+  - Sand and Blood Quote
   - Quoted Book
   - Book
   - Autobiography

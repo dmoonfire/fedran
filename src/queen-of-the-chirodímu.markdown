@@ -1,6 +1,7 @@
 ---
 categories:
   - Play
+  - Sand and Blood Quote
   - Quoted Play
   - Quote
 title: Queen of the Chirodímu

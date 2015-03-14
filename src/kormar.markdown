@@ -3,6 +3,7 @@ LocalWords: Kyōti Tarsan tarsan Tachìra Mifúno kojinōmi Mifúno's
 Title: Kormar
 categories:
   - Country
+  - Sand and Blood Quote
   - Quote
   - Quoted Saying
 needEdit: true

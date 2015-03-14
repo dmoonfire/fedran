@@ -2,6 +2,7 @@
 categories:
   - Kyōti Clan
   - Tachìra Clan
+  - Sand and Blood Quote
   - Quote
   - Quoted Saying
 needEdit: true

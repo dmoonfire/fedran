@@ -1,6 +1,7 @@
 ---
 categories:
   - Story
+  - Sand and Blood Quote
   - Quoted Story
   - Quote
 title: Birth of the Pabinkúe

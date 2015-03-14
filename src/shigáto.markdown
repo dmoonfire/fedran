@@ -1,5 +1,6 @@
 ---
 categories:
+  - Sand and Blood Quote
   - Person
   - Clan Member
   - Badenfùmi Clan Member

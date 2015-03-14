@@ -2,6 +2,7 @@
 categories:
   - Person
   - Clan Member
+  - Sand and Blood Quote
   - Chidomífu Clan Member
   - Quote
   - Quoted Saying

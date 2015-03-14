@@ -2,6 +2,7 @@
 categories:
   - Person
   - Clan Member
+  - Sand and Blood Quote
   - Kimichyúfi Clan Member
   - Quote
   - Quoted Saying

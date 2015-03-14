@@ -2,6 +2,7 @@
 categories:
   - Person
   - Clan Member
+  - Sand and Blood Quote
   - Kakasāba Clan Member
   - Quote
   - Quoted Saying

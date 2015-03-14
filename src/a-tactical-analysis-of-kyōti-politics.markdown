@@ -1,6 +1,7 @@
 ---
 categories:
   - Essay
+  - Sand and Blood Quote
   - Quoted Essay
   - Quote
 title: A Tactical Analysis of Kyōti Politics

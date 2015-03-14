@@ -1,6 +1,8 @@
 ---
 categories:
+  - Quote
   - Essay
+  - Sand and Blood Quote
   - Quoted Essay
 title: Ornithological Studies of the Kimīsu Region of the Mifúno Desert
 ---

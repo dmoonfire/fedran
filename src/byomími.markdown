@@ -2,6 +2,7 @@
 categories:
   - Person
   - Clan Member
+  - Sand and Blood Quote
   - Yunujyoráze Clan Member
   - Quote
 title: Byomími

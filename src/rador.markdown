@@ -5,6 +5,7 @@ aliases:
   - Rador Malastin
 categories:
   - Person
+  - Sand and Blood Quote
   - Quote
   - Quoted Saying
 ---

@@ -1,5 +1,6 @@
 ---
 categories:
+  - Sand and Blood Quote
   - Quote
   - Quoted Play
   - Play

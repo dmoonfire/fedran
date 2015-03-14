@@ -1,6 +1,7 @@
 ---
 Title: The Failure of Innovation
 categories:
+  - Sand and Blood Quote
   - Quote
   - Quoted Essay
   - Essay

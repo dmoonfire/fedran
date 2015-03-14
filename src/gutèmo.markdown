@@ -1,6 +1,7 @@
 ---
 categories:
   - Person
+  - Sand and Blood Quote
   - Heyojyunāshi Clan Member
   - Clan Member
   - Quote

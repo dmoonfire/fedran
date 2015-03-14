@@ -1,6 +1,7 @@
 ---
 categories:
   - Person
+  - Sand and Blood Quote
   - Quote
   - Quoted Saying
   - Playwright

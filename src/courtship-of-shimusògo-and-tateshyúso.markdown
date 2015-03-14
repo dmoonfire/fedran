@@ -1,6 +1,7 @@
 ---
 categories:
   - Quote
+  - Sand and Blood Quote
   - Quoted Play
   - Play
 title: Courtship of Shimusògo and Tateshyúso

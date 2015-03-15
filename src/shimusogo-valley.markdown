@@ -3,6 +3,7 @@ LocalWords: Shimusògo Shimusogo shimusogo shapers
 Title: Shimusogo Valley
 categories:
   - Shimusògo Topic
+  - Shimusògo Location
 ---
 
 Shimusogo Valley is the ancestral home of the [Shimusògo](). It is a quarter-mile long valley with a slight bent to it. At the eastern point is the [shrine](/shimusogo-shrine/) and the western has the only entrance.

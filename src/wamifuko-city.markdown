@@ -6,7 +6,7 @@ categories:
 LocalWords: Kosòbyo
 ---
 
-Wamifuko City is the rebuilt ancestral home of the [Wamifūko]() clan after their mountain fortress was destroyed by the [Kosòbyo]() and their armies.
+Wamifuko City is the rebuilt ancestral home of the Wamifūko clan after their mountain fortress was destroyed by the [Kosòbyo]() and their armies.
 
 # Appearance
 

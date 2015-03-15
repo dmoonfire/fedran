@@ -51,9 +51,9 @@ Being that *Sand and Blood* is written from Rutejìmo's point of view, there are
 
 ## Personality
 
-{{spoiler: Sand and Blood}}
-
 Rutejìmo had dreams of keeping up with Chimípu even though he knew he wasn't capable of doing so. He chafed underneath her obvious skill, wishing he would push himself harder but knowing that he wouldn't.
+
+{{spoiler: Sand and Blood}}
 
 Later, during the rite and when Chimípu ran off to try to find the elders, Rutejìmo was willing to let Tsubàyo and Karawàbi take charge. Even when Karawàbi was trying to knock Pidòhu off a rock, Rutejìmo felt guilt for not doing anything when the teenager fell and broke his legs. The same attitude remained with him when he let Tsubàyo bully him into abandoning Chimípu and Pidòhu and going off on their own.
 

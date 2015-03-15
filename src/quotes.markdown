@@ -3,6 +3,7 @@ LocalWords: Shimusògo Mifuno
 Title: Quotes
 categories:
   - World
+  - Site Navigation
 plugins:
   quotes:
     category: Quote

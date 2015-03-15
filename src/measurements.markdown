@@ -1,8 +1,15 @@
 ---
 Title: Measurements
+aliases:
+  - Chain
+  - Foot
+  - Rod
+  - Link
+  - League
+LocalWords: Fedran
 ---
 
-Fedran uses Earth-based measurements for distance, but they are uncommon enough to require explaination.
+Fedran uses Earth-based measurements for distance, but they are uncommon enough to require explanation.
 
 The more common ones are well-known and don't need explanation.
 

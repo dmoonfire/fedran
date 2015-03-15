@@ -14,6 +14,8 @@ plugins:
     type: Insert Category
     category: Sand and Blood Tertiary Character
     format: list
+categories:
+  - Source Characters
 ---
 
 # Primary Characters

@@ -1,6 +1,8 @@
 ---
 LocalWords: Kyōti
 Title: People
+categories:
+  - Site Navigation
 plugins:
   people:
     category: Person

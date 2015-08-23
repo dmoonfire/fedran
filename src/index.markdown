@@ -1,5 +1,5 @@
 ---
-Title: World
+Title: Fedran
 plugins:
   countries:
     category: Country

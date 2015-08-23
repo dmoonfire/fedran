@@ -2,8 +2,9 @@
 LocalWords: Shimusògo Mifuno
 Title: Quotes
 categories:
-  - World
   - Site Navigation
+  - Source
+  - World
 plugins:
   quotes:
     category: Quote

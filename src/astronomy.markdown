@@ -1,5 +1,7 @@
 ---
 title: Astronomy
+categories:
+  - Major Topic
 ---
 
 While it is highly unlikely that stories in Fedran will go into space, there is still some basis for things such as the calendars and time keeping.

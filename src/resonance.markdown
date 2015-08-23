@@ -1,5 +1,7 @@
 ---
 Title: Resonance
+categories:
+  - Magic Topic
 ---
 
 Like [electromagnetic interference](http://en.wikipedia.org/wiki/Electromagnetic_interference), all forms of magic have a field of influence called *resonance*. Resonance is directly correlated to the strength of magic; the more powerful the magic, the more intense the resonance and larger its influence has on the rest of the world.

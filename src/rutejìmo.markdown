@@ -22,7 +22,12 @@ Rutejìmo (Jìmo for short) is a teenager of the [Shimusògo]() clan. While grow
 
 # Early Life
 
-Rutejìmo was the youngest living son of [Chyojímo](/shimusogo-chyojímo/) and [Hikòru](/shimusogo-hikòru/). Born after three miscarriages, he was younger than his eldest brother, [Desòchu](/shimusogo-desòchu/), by fourteen years.
+{{event: 1454/7/41, kyo, Born}}
+{{relationship: Shimusogo Chyojímo, Mother}}
+{{relationship: Shimusogo Hikòru, Father}}
+{{relationship: Desòchu, Older Brother}}
+
+Rutejìmo was the youngest living son of Chyojímo and Hikòru. Born after three miscarriages, he was younger than his eldest brother, Desòchu, by fourteen years.
 
 A week after he was born, his mother fell when she tripped on a path inside [Shimusogo Valley](). Already weak from Rutejìmo's birth, she died from blood loss and her injuries.
 
@@ -69,15 +74,3 @@ He realized his mistake and offered his throat to Chimípu who refused to take h
 Through the adventures that followed, Rutejìmo found that he had no taste for violence and was quickly becoming a pacifist. He made some attempts to fight Tsubàyo over Pidòhu, but he couldn't bring himself to attack the teenager. When he saw violence, he became sick to his stomach and would later beg to save Tsubàyo's life.
 
 During this time, Rutejìmo also acquired a fear of the dark much to the realization that he was too weak to survive on his own. A night clan warrior, [Pabinkue Mikáryo](), enforced this when she saved him from a giant snake. It was during this time that he started to have feelings for the warrior that would later haunt him.
-
-# Relationships
-
-* [Chyojímo](/shimusogo-chyojímo/): Mother
-* [Hikòru](/shimusogo-hikòru/): Father
-* [Desòchu](/shimusogo-desòchu/): Older Brother
-* [Tejíko](/shimusogo-tejíko/): Grandmother
-* [Somiryòki](/shimusogo-somiryòki/): Step-Grandfather
-
-# Events
-
-* {{date: 1454/7/41, kyo}}: Born

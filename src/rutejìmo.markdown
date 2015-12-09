@@ -10,6 +10,11 @@ categories:
   - Clan Member
   - Sand and Blood Character
   - Sand and Blood Primary Character
+sources:
+  - Sand and Blood
+  - Sand and Ash
+  - Sand and Bone
+  - Raging Alone
 summary: "The slowest and weakest of the [Shimusògo]() clan."
 ---
 

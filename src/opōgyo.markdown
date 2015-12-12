@@ -23,4 +23,4 @@ At the beginning of [Sand and Blood](), Opōgyo was beginning to show its age.
 
 # Events
 
-* {{date: 1457/2/5, kyo}}: Created
+* {{date: 1457/2/5 MTR, kyo}}: Created

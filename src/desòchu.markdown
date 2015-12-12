@@ -63,5 +63,5 @@ But, to everyone's surprise, Rutejìmo returned to [Chimípu]() and [Pidòhu]() 
 
 # Events
 
-* {{date: 1440/3/29, kyo}}: Born
-* {{date: 1456/5/3, kyo}}: Accepted into the [Shimusògo]() clan as an adult.
+* {{date: 1440/3/29 MTR, kyo}}: Born
+* {{date: 1456/5/3 MTR, kyo}}: Accepted into the [Shimusògo]() clan as an adult.

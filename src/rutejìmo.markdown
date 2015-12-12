@@ -22,10 +22,10 @@ Rutejìmo (Jìmo for short) is a teenager of the [Shimusògo]() clan. While grow
 
 # Early Life
 
-{{event: 1454/7/41, kyo, Born}}
-{{relationship: Shimusogo Chyojímo, Mother}}
-{{relationship: Shimusogo Hikòru, Father}}
-{{relationship: Desòchu, Older Brother}}
+{{event: 1454/7/41 MTR, kyo, Born}}
+{{relationship: 1454/7/41 MTR, kyo, Shimusogo Chyojímo, Mother}}
+{{relationship: 1454/7/41 MTR, kyo, Shimusogo Hikòru, Father}}
+{{relationship: 1454/7/41 MTR, kyo, Desòchu, Older Brother}}
 
 Rutejìmo was the youngest living son of Chyojímo and Hikòru. Born after three miscarriages, he was younger than his eldest brother, Desòchu, by fourteen years.
 

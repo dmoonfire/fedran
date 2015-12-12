@@ -20,6 +20,6 @@ Hikòru is a courier of the [Shimusògo]() clan who was later struck from public
 
 # Events
 
-* {{date: 1422/2/22, kyo}}: Born
-* {{date: 1456/1/7, kyo}}: Declared [banyosiōu]() by [Tejíko](/shimusogo-tejíko/)
-* {{date: 1456/1/11, kyo}}: Died
+* {{date: 1422/2/22 MTR, kyo}}: Born
+* {{date: 1456/1/7 MTR, kyo}}: Declared [banyosiōu]() by [Tejíko](/shimusogo-tejíko/)
+* {{date: 1456/1/11 MTR, kyo}}: Died

@@ -40,4 +40,4 @@ When Tejíko found out, she beat Rutejìmo until [Gemènyo]() interrupted her.
 
 # Events
 
-* {{date: 1378/2/15, kyo}}: Born
+* {{date: 1378/2/15 MTR, kyo}}: Born

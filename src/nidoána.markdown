@@ -33,4 +33,4 @@ Near the beginning of [Sand and Blood](), [Gemènyo]() teased [Rutejìmo]() with
 
 # Events
 
-* {{date: 1450/2/44, kyo}}: Born
+* {{date: 1450/2/44 MTR, kyo}}: Born

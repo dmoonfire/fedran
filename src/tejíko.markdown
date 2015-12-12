@@ -40,4 +40,4 @@ Later, when the clan elders voted to include Rutejìmo with [Chimípu's](/chimí
 
 # Events
 
-* {{date: 1399/5/47, kyo}}: Born
+* {{date: 1399/5/47 MTR, kyo}}: Born

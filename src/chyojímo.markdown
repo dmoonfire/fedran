@@ -26,5 +26,5 @@ Her second son, [Rutejìmo](/shimusogo-rutejìmo/), was a happy surprise but her
 
 # Events
 
-* {{date: 1424/7/9, kyo}}: Born
-* {{date: 1454/8/6, kyo}}: Died
+* {{date: 1424/7/9 MTR, kyo}}: Born
+* {{date: 1454/8/6 MTR, kyo}}: Died

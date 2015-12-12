@@ -31,4 +31,4 @@ A year before [Sand and Blood](), Kizúchi went through her rites of passage wit
 
 # Events
 
-* {{date: 1453/8/4, kyo}}: Born
+* {{date: 1453/8/4 MTR, kyo}}: Born

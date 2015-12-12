@@ -44,4 +44,4 @@ Later, [Gemènyo]() would tease Rutejìmo about her.
 
 # Events
 
-* {{date: 1462/2/31, kyo}}: Born
+* {{date: 1462/2/31 MTR, kyo}}: Born

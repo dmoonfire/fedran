@@ -5,7 +5,7 @@ categories:
 summary: "A collection of random tidbits of information about the world."
 ---
 
-As a part of world-building, I decided to write some random tidbits of information and post them on Twitter under the [#FedranAlmanac](https://twitter.com/search?q=%23FedranAlmanac&src=typd) hash. Some of these are plots I'm intending to work on, others are just fleshing out the world. I suspect some of them may change as I figure everything out but the ideas are still there.
+As a part of world-building, I decided to write some random tidbits of information and post them on Twitter under the [#FedranAlmanac](https://twitter.com/search?q=%23FedranAlmanac&src=typd) or [#Fedran](https://twitter.com/search?q=%23Fedran&src=typd) hash. Some of these are plots I'm intending to work on, others are just fleshing out the world. I suspect some of them may change as I figure everything out but the ideas are still there.
 
 Eventually, these will be disseminated across the rest of the pages on this site, but that may take while to write them up formally.
 
@@ -230,3 +230,232 @@ Eventually, these will be disseminated across the rest of the pages on this site
 1. Emergency authority over a Hidanork tribe rarely lasts more than a few days.
 1. The typical Hidanork is short, muscular, with reddish skin from walking in the sun.
 1. Scars are considered a sign of life experiences and beauty among the Hidanork.
+1. In Kormar, there are four branches of the government: Royalty, Coin, Swords, and Land.
+1. Decisions that affect Kormar as a whole (war, treaties, laws) require majority vote.
+1. If the vote becomes stalemated (two for and two against), 139 random citizens are chosen for majority vote.
+1. The process of gathering the 139 citizens to break Kormar stalemates is called the Shadow Court.
+1. Most of the Shadow Court jurors are kidnapped in the middle of the night and secreted away until a decision is made.
+1. Being in the Shadow Court is a terrifying experience for most families because no one will tell why someone disappeared.
+1. Most Shadow Court decisions are made within a few days.
+1. An effort is made to have an even selection across all of Kormar, but logistics dictate that most jurors come from cities.
+1. Almost every folding mage works for the Shadow Court because of their ability to teleport.
+1. Folding magic is one of the rarest forms of magic, on part with true healing magic.
+1. The Kormar Royalty currently consists of the Golden Queen, the Silver Queen, and the Bronze Council.
+1. Previously, the Kormar Royalty was only the Puzzle King, but after his death and the civil war, it was split into three parts.
+1. Royalty only gets one vote, which means if the Silver King and Golden Queen disagree, the Bronze Council finds the compromise.
+1. If either the Kormar King or Queen dies or abdicates, the Bronze Council would be dissolved.
+1. Most people feel that much of the King's and Queen's continued disagreements are exasperated by the Bronze Council.
+1. The Kormar Coins are the thousand merchant guilds of the country.
+1. Each guild master has a single vote on all Kormar Coin matters.
+1. Majority or two-thirds majority is required for Kormar Coin decisions depending on the severity of the vote.
+1. Most Kormar Coin votes are done over a month of negotiation. Emergency votes are done over three days.
+1. Establishment of a new Kormar guild requires a majority vote from all four branches of the government.
+1. Each Kormar guild comes up with its own rules of identifying the guild master who votes.
+1. Kormar guild votes are usually done over a network of communication mages called the Listening Winds.
+1. The lands branch of Kormar government comes from land ownership.
+1. The smallest piece of land is the estate (pretuha), which doesn't allow participation in the government.
+1. The next larger, the tcatuha (city, region, OOW: barony) is the smallest size capable of participating.
+1. There are just over thirty-five thousand tcatuhas in Kormar, each one is a single vote in land matters.
+1. Tcatuhas are grouped into just over three thousand jectuhas (OOW: counties).
+1. Jectuhas are further grouped into twenty-seven baljectuhas (OOW: states) which make the actual decisions for land matters.
+1. Formally a tcatuha nobli is tcadu tumla nobli or noble of a city land.
+1. Tcatuha nobli can also be shortened to tcanohi (city noble).
+1. The name tumnohi refers to all nobles of lands (prenohis, tcanohis, jecnohis, and baljecnohis).
+1. OOW: Like many languages in Fedran, Lorban (Kormar's language) doesn't have a plural. They use a count.
+1. OOW: Tcanohi refers to 1+ barons. But "all of the barons" (ro tcanohi) and "many barons" (sor tcanohi) are plurals.
+1. OOW: Because these are in English, plurals are written with English rules (tcanohis verses many tcanohi).
+1. The jectuhas nobli (OOW: count) is chosen among the tcatuha nobli (OOW: barons) within the jectuhas.
+1. Decisions on which tcatuha nobli becomes the count are made every ten years during midsummer.
+1. The decision for the jecnohi is made among the tcanohi that make up the jectuhas.
+1. Previously, tcatuhas would be renamed when a new nobli had been chosen, but that stopped in 1814.
+1. Now, tcatuhas keep the name of the family in charge for over three generations or are given a descriptive name.
+1. In the midwinter following the jecnohi decision, a baljecnohi is chosen among the jecnohi.
+1. In 2000, over eight hundred of the jectuhas still retained a family name.
+1. Tcatuhas that border another jectuhas may petition to move to that jectuhas during the decade vote.
+1. In Kormar matters, the conclave of baljecnohis (or their representatives) decide on their vote.
+1. The fourth branch of Kormar is the swords or military branches.
+1. There are seven enlisted, eleven officer, and four mage ranks in the Kormar military.
+1. The Kormar military has a double vote on war and treaties, but a half vote for everything else.
+1. Both the Kormar royalty and military can take charge of the country in times of emergency.
+1. There is always a reckoning and sanctions when the Kormar royalty or military takes over.
+1. The longest time the military took control of Kormar was seven years at the end the Puzzles Civil War.
+1. All four branches of the Kormar government have their own justice system.
+1. The justice and enforcement for each branch is typically arranged along the jectuhas and baljectuhas.
+1. Royalty is responsible for crimes over freedom, such as kidnapping and slavery and family matters.
+1. Royalty is also responsible for the well-being of the citizens and includes education.
+1. Military justice is responsible for crimes of life and death, such as murder.
+1. Land justice deals with crimes related to the land and buildings: stealing of land, arson, and land disputes.
+1. Coin justice focuses on property and contract laws. This includes robbery and stealing.
+1. It is possible to have ranks in two branches of the government (many tcanohi have military ranks).
+1. The Silver King is royalty, a guild master (of the Artisan's Guild), and is a jecnohi.
+1. The Golden Queen is a baljecnohi unlike her brother who is only a jecnohi.
+1. The Golden Queen became the head of the military in 1831, giving her rank in three branches of Kormar government.
+1. Feedback from magic causes a great deal of difficulty with most criminal investigations.
+1. Clairvoyance or any form of temporal magic is not acceptable in any court of law.
+1. Using clairvoyance to identify a criminal is also not acceptable to law.
+1. In the 1700s, a group of archmages called the Order of the Sights provided binding evidence in Gepaul courts.
+1. The Order of the Sights were all archmages with temporal and telepathic abilities.
+1. Each archmage in the Order of the Sights was bound to provide unbiased information to the courts.
+1. In most cases, the Order of the Sights "read" a crime scene and provided a telepathic image to the court recorders.
+1. In 1767, a relatively unimportant case (Ramer v. Ramer) resulted in the downfall of the Order of the Sights.
+1. Ramer v. Ramer was a child custody case between Haron Ramer and Junin Ramer over their three children.
+1. Misanar Ramer was the eldest of the Ramer children, but she had a promising career as a singer and dancer.
+1. Both Haron and Junin Ramer fought over Misanar's management and custodial guardianship.
+1. In the case that spanned almost three years, neither sides of Ramer v. Ramer used the Order of the Sights.
+1. Both sides of Ramer v. Ramer spent over ten million marks in their case, escalating accusations constantly.
+1. In 1770, Ramer v. Ramer came to a head when the judge ordered all evidence to be provided up front.
+1. Both sides submitted events from a single party, both provided by independent Order of the Sights readings.
+1. All three of the Ramer v. Ramer contradicted each other and it was impossible to reconcile them.
+1. The grand master of the Order of the Sights pulled strings to have the irreconcilable readers purged from records.
+1. An independent investigator was sent to reconcile the three conflicting readings in violation of a sudden law.
+1. Ramer v. Ramer ended with Misanar's suicide at the end of 1770, but the investigation in the Order continued.
+1. Further investigation on the Order of the Sights brought Inspector Signor across three countries.
+1. There were five assassination attempts on Inspector Signor but she survived all of them.
+1. Inspector Signor lost her right arm in the fourth assassination attempt of the Order.
+1. Inspector Signor's investigation brought her to the Oathbinders Society and their mountain fortress.
+1. The Order of the Sights archmages were bound by the Oathbinders Society and their geases.
+1. For centuries, the Oathbinders Society geases were considered unbreakable.
+1. However, the Order of the Sights had found a loophole that allowed them to lie to serve their order.
+1. The Order of the Sights had been selling their readings to high-value customers.
+1. For 318 years, the Order of the Sights managed their archmages to ensure there was never a conflict.
+1. The speed that the Ramer v. Ramer needed to answer the judge meant they got three archmages aware of each other.
+1. The sixth assassination attempt on Inspector Signor was successful, but her report returned to the Gepaul courts.
+1. News of Inspector Signor's report spread rapidly to the civilized country in a matter of weeks.
+1. Within three months of Inspector Signor's report, almost every Order of the Sights archmage was assassinated.
+1. The Oathbinders Society fortress was destroyed in 1771. Not a single man, woman, or child survived.
+1. No one had ever stepped forward to claim the destruction of the Oathbinders Society.
+1. Since 1771, no mage is allowed to prove any magical service to a court of law in any country.
+1. Of all the civilized countries, Kormar is the most accepting toward LGBT. But, there are limits.
+1. With each generation in the cities, acceptance of LGBT has steadily increased.
+1. Among the older generations and outlying tcatuhas, LGBT folks are still vilified.
+1. In 1801, lesbian domestic relationships were formally permitted in Kormar. In 1818, gay relationships were.
+1. The reason lesbian relationships were accepted earlier was the belief that females had closer relationships.
+1. In 1848, the distinction between domestic relationships and marriage were consolidated in Kormar.
+1. The 1848 Kormar law was called the Coordination of Martial Relationships (CORM).
+1. In 1794, Kormar transgendered could legally declare their preferred gender.
+1. It wasn't until 1850 that two Kormar transgendered could marry each other.
+1. Society shifted in Kormar in the late 1800s to allow transgendered not to choose a single outward gender.
+1. Techniques for magically changing physical gender have been available since the 1500s.
+1. The process of changing physical genders with magic has been viewed with disgust until well into the 1700s.
+1. Tarsan, as a patriarch, was remarkably accepting of transgendered since the 1600s.
+1. However, in Tarsan, transgendered must choose their final gender before they are presented to society.
+1. Most Tarsan transgendered make their choice around their eighth or ninth birthday.
+1. Transgendered in Tarsan are expected to "act their sex" at all times, including outfits and attitudes.
+1. A male-to-female transgendered in Tarsan can never be the head of a family.
+1. By 1901, there had been only seven female-to-male transgendered heads of family.
+1. The Lutiers are barely accepting of female-to-male transgendereds but do not allow male-to-female.
+1. The masculine focus of the Lutiers makes them unaccepting of anyone wishing to be female.
+1. Gepaul's policies toward LGBT are an imperfect blending of many cultures.
+1. Like many of Gepaul's policies, the official treatment LGBT changes with almost every election.
+1. Because the cultures of Kyōti are focused on survival, non-breeding relationships are highly discouraged.
+1. Being publicly outed as gay or lesbian in Kyōti is a death sentence.
+1. There are a number of LGBT among Kyōti's banyosiōu since they are already outside of cultural norms.
+1. Even a LGBT among the Kyōti's banyosiōu will be executed if caught.
+1. Members of the Divine Couple accept LGBT relationships, but only if they conform to the one man, one woman arrangement.
+1. The Divine Couple's view of LGBT definitely influences Tarsan and Gepaul politics.
+1. For most of the 1600s and 1700s, it was believed that mental manipulation could prevent someone from being LGBT.
+1. It is almost difficult to create long-term changes to someone's mental state, including sexuality.
+1. The belief that everyone has a physical, mental, and social sexuality was first presented in Tarsan 1773.
+1. While it was frequently reviled, the "Three Pillars of Sexuality" became the foundation of CORM.
+1. It wasn't uncommon for Kormar natives to explore their sexuality during their state-mandated Journey.
+1. Some of the Kyōti natives would practice non-heterosexual activities far away from the cities.
+1. The biggest limitation on magical power is the inability for most mages to work together.
+1. The only known way of creating compatible resonance is years or decades of enforced closeness until the patterns change.
+1. Attempts to categorize resonance has been an unsolvable puzzle for most mages.
+1. Having foreknowledge if two people or artifacts were compatible would save thousands of hours and avoid property destruction.
+1. Having compatible resonance would also allow mages to work together easier, to create more powerful spells and artifacts.
+1. The distance and strength of resonance is well-known, called the paladin stride after Paladin Grestor.
+1. The paladin stride categorizes resonance strength into various circles, with PS 0 being a non-magical or person item.
+1. The paladin stride was formally established in 981 after thirty years of debate and arguments.
+1. Paladin Grestor was assassinated in 952 because his hypothesis conflicted with teachings from the Divine Couple.
+1. Over half of Paladin Grestor's peers were assassinated in the thirty year debate over the paladin stride.
+1. The Paladin Stride was heavily scorned for fifty years, eventually earning the name blood stride and (mortal) coil length.
+1. Each step of the paladin stride represents an increase of power but only increased the area of influence by a foot.
+1. In 1604, the "foot" measurement was redefined as the distance of resonance between two ores from the Gonlin Mountains.
+1. The Crystal Spheres technique measures the "circle of power" as six paladin strides beyond the initial 16.5 feet.
+1. The threshold of the Crystal Spheres was the basis for the rod, a unit of measurement.
+1. Tarsan uses the formal name of paladin stride. Kormar calls it coil length. Gepaul scholars use aura radius.
+1. While distance is well-known, the interaction is not. No one has created a universal system of categorizing compatibility.
+1. Every few years, there is a "new" system of resonance categorization that is supposedly more accurate and reliable.
+1. Each system of resonance categorization typically focused on one aspect of resonance interaction.
+1. A popular system is the Durnig Scale with uses blue, green, red to identify compatibility.
+1. The Durnig Scale only appears to be reliable for southern Tarsan and parts of south-west Gepaul.
+1. The Durnig Scale uses three colors with a number between 0 and 119 to identify resonance.
+1. To be measured with a Durnig Scale requires traveling into the wild for at least thirty leagues.
+1. The scale uses three large glasses filled with a water and 119 bobbers filled with different types of reactive liquids.
+1. The Durnig Scale is read by looking for the lowest numbered bobber in the top of each tube after eight hours of not moving.
+1. It is hypothesized that the Durnig Scale only works for certain ancestries or people growing up in certain regions.
+1. A northern Kormar can have different Durnig Scale rating but still be compatible with a south Tarsan.
+1. Two southern Tarsan with different Durnig Scales will react reliability.
+1. But, a Kormar native with parents from south Tarsan will have more reliable Durnig Scale ratings.
+1. The Two Crystals rating is similar but only seems to be reliable with those who were born within three miles of the coast.
+1. No one has discovered by geographical and ancestry affects the various attempts to categorize resonance.
+1. The most reliable way of identify compatibility is to physical test it in a controlled environment.
+1. With the heavy use of magic and "background resonance" of most cities, compatibility can only be tested in the wild.
+1. Growth of cities has made the travel time and distance for "the wild" to increase steadily over the years.
+1. In Tarsan, it requires over a hundred mile trip to find a magically neutral land or twenty miles into the ocean.
+1. The ocean is a better place to find a magically neutral area because even some natural animals have resonance.
+1. Most natural creatures have a paladin stride of only 0.1 ps, but there are some in the 5-9 ps range.
+1. A "dragon" in an immortal force that is capable of transferring its mind and power into the body of another being.
+1. No human has survived more than a year with a dragon soul (for a better word) inside it.
+1. Dragons typically take over the body of simple creatures: squirrels, snakes, bats, etc.
+1. The body of a small creature increases as the dragon soul settles into the corporeal form.
+1. Most dragon-souled creatures end up somewhere between fifty and a hundred feet tall.
+1. Dragons are the most powerful of non-human beings known in Fedran, with resonance over a thousand paladin strides.
+1. In 1272, the dragon known as Damagar had been measured with a resonance of 2,013 ps before he disappeared.
+1. The dragon soul that powers the Puzzle King's palace has a resonance of 3,395 ps.
+1. The dragon soul in the Puzzle King's palace is capable of killing most people within a hundred feet of it.
+1. In 1107 TSC, Gepaul was founded by the Derobin family after they split from the Tarsan.
+1. The Gepaul government was established by four brothers and one sisters of the Derobin family.
+1. Learning from the older countries mistakes in government, the five Derobins tried to create a balanced system.
+1. The Derobins purposefully felt that the family-based leadership of Tarsan lead to a stagnant society.
+1. The Derobins also decided that Kormar's government was too complex to function effectively.
+1. Equal number of votes would create either stable systems or stalemates, the Derobins created five branches of government.
+1. Three of the Gepaul branches are active in lawmaking: Senate, Commons, and President.
+1. The Senate consists of one senator and one demi-senator for each of the forty-three states in Gepaul.
+1. Gepaul senators have five year terms with the elections arranged so roughly one fifth are up for votes every year.
+1. The Gepaul Commons has a variable number of representatives which are gathered purely on popular vote.
+1. Every midsummer, every Gepaul adult citizen is allowed to choose or change their representatives.
+1. The Gepaul elections are now a grand festival across the entire country. It is also a national holiday.
+1. Each Gepaul chooses a senator and demi-senator for the country and state level.
+1. Anyone can be a representative and there are many singular or small group representatives in Gepaul.
+1. Gepaul representatives can either go to the representative capitol, The Coliseum, or remain at home.
+1. Most Gepaul representatives remain in their local area and vote remotely.
+1. A magical communication network, The Web of All Souls, allows dissemination of information and gathering of votes.
+1. Because of the Web, many representatives also become communication hubs for their local communities.
+1. Representatives of larger groups frequently require help coordinating and relaying information to their constitutes.
+1. Some of the more popular representatives create newspapers to help communicate key information.
+1. These newspapers frequently are biased to skew information toward the result the representative is looking for.
+1. Conflicting newspapers and town criers frequently occur when there are multiple popular representatives in an area.
+1. The voting record of representatives are available to everyone and is frequently referenced during the midsummer elections.
+1. The Gepaul president is an individual who speaks for the entire nation.
+1. Gepaul presidents are capable of creating laws themselves.
+1. Laws in Gepaul have the weight based on the number of branches which voted for them.
+1. In Gepaul, a three-law has agreement from all three branches and overrides all other laws.
+1. In Gepaul, a two-law only two branches in agreement and the third abstaining or not making a decision.
+1. A one-law in Gepaul is a law that only one branch voted on and the other two have not made a decision.
+1. A negative vote against a law reduces it's enforcability. So, a two-law with a negative vote becomes a one-law.
+1. A zero-law is any law that has more votes against it than for it. They are not enforced.
+1. In Gepaul, higher laws supersede lower ones. For example, a three-law will trump a one-law no matter how specific.
+1. There are two reactive branches of the Gepaul government: Justice and Enforcement.
+1. Gepaul Justice has the capability of reducing or negating any law.
+1. The Justice branch is organized into two courts, one for each state and a country-level one.
+1. Each Gepaul justice court is capable of lowering the enforcability of a law by one level.
+1. State courts decisions only affect their respective state.
+1. If both the state and country courts disagree with a law, the enforcability is lowered by two.
+1. Gepaul's enforcement branch consists of all military and police organizations.
+1. Gepaul's enforcement branch also consists of public services such as fire and hospitals.
+1. They are responsible for enforcing the laws but are incapable of changing the laws themselves.
+1. While the Gepaul enforcement branch isn't officially able to change laws, they can choose not to prosecute.
+1. Both the justice and enforcement branches of Gepaul government are positions for life.
+1. There are nine country judges who weigh in on any opinion needed.
+1. It requires a two-law to kick out as state-level judge.
+1. It requires a three-law to force a country-level judge to step down.
+1. Judges are appointed with one-law (for state) and two-law (for country) during the midwinter sessions.
+1. All Gepaul laws are required to have a sunset date which can be no more than fifteen years later.
+1. Gepaul enforcement judges are typically fifteen year terms.
+1. By law, a Gepaul cannot serve in a branch if they have a third cousin currently serving in another branch.
+1. In addition, no Derobin can serve in any branch of the goverment until 1500 TSC.
+1. Gepaul presidents are elected for a single fifteen year term.
+1. Gepaul presidental terms begin at midwinter of the following year to allow for time to switch administrations.
+1. Impeachment of a Gepaul president requires a three-law plus agreement from the country courts.
